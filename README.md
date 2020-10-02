@@ -1,8 +1,10 @@
 # How to create a dynamic search using Rxjs debounce custom hook in react
 
-## useDebounce custom hook
-
 In the project directory, you can run:
+
+### `yarn`
+
+To install all the dependencies listed in package.json
 
 ### `yarn start`
 
